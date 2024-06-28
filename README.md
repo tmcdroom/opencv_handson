@@ -2,7 +2,7 @@
   <br>
   <img src="img/01_logo/LOGO_D-ROOM.jpg" alt="D-ROOM_LOGO" width="200">
   <br>
-  Python環境構築ハンズオン
+  画像前処理_OpenCV_ハンズオン
   <br>
 </h1>
 
@@ -13,7 +13,7 @@
 </p>
 
 
-　
+
 ## 内容
 [Udemyへのリンク](https://www.udemy.com/user/toyotazi-dong-che-zhu-shi-hui-she-d-room/)
 
